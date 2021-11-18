@@ -1,6 +1,5 @@
 {
   "redacao": [
-    { "id": 1, "title": "Redação 1" },
     { "id": 2, "title": "Redação 2" },
     { "id": 3, "title": "Redação 3" },
     { "id": 4, "title": "Redação 4" },
